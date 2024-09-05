@@ -1,2 +1,2 @@
 # githubpages_and_ga4_test
-githubpagesによるGE4での計測用
+githubpagesによるGA4での計測用
